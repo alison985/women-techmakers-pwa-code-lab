@@ -1,0 +1,9 @@
+{
+  "firebase": "alison-first-pwa",
+  "public": "alison-work",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
